@@ -1,2 +1,0 @@
-# HeThongNhung
-Hệ Thống Nhúng
